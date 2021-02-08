@@ -1,5 +1,5 @@
 # pythondsa
 
-Just some Jupyter Notebooks :P
+Assignment Jupyter Notebooks :P
 
 ...minee XD
